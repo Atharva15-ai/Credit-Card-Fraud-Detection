@@ -224,8 +224,8 @@ __pycache__/
 
 ## 👤 Author
 
-**Rohan**
-- GitHub: [Rohan-ai24](https://github.com/Rohan-ai24/Credit-Card-Fraud-Detection)
+**Atharva Girish Deshmukh**
+- GitHub: Atharva15-ai [(https://github.com/Atharva15-ai/Credit-Card-Fraud-Detection)]
 
 ---
 
